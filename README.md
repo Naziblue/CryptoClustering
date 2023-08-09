@@ -51,5 +51,3 @@ The dataset used in this project contains various market metrics for different c
 Crypto Clustering allows for a deeper understanding of the similarities and differences among various cryptocurrencies. By reducing dimensionality with PCA and using KMeans clustering, we can categorize cryptos and potentially unveil hidden market trends.
 
 ---
-
-This README provides a concise overview of your project. Depending on your audience, you can expand on various sections, add more context, or dive deeper into the methodologies and results.
